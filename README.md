@@ -1,15 +1,11 @@
-# project Background or title 
-- a consise and descritptive title 
--separate the main technical links from the ReadMe
-
+# Exploratory Data Analysis of Physical Performance Dataset 
 # project overveiw
-- purpose: a brief explaination of the projects objective
-- summary: what is the problem being solved
+this project is focuses on cleaning and analyzing the relationships between physical attributes like Height,
+Weight, Strenght, and Stamina. the goal is uncover petterns and insights that could inform training decisions in sport performance
 
 # Datasets
-- description: Overview of the data used (e.g., sources, format, size, number of records, key variables).
-- access: Whether the dataset is publicly available, proprietary, or generated.
-- Data Dictionary: A table listing key columns and their meanings.
+this dataset was collected from kaggle using kaggle api and contains 79 columns that provide insights into players performance.
+
 
 ## Tool and technologies
 - language
