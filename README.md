@@ -127,8 +127,8 @@ This dataset, sourced from Kaggle via the Kaggle API, contains detailed informat
 ## executive summary
 **overview of finding**: After cleaning and formatting the data, we reached the stage where we can perform exploratory data analysis (EDA). EDA allows us to gain deeper insights into the dataset, uncover patterns, and identify relationships between variables. This process is crucial for understanding the data better and making informed decisions.
 
-![image](../image/db_describe.png)
-![image](../image/db_describe2.png)
+![image](./image/db_describe.png)
+![image](./image/db_describe2.png)
 
 ### **Summary of Key Findings**
 
