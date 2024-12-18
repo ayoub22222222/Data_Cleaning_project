@@ -166,6 +166,17 @@ This dataset, sourced from Kaggle via the Kaggle API, contains detailed informat
 #### **Engagement Metrics**
 - **Hits**: Players' popularity varies significantly, with an average of **15.54 hits** and a maximum of **984 hits**, suggesting diverse levels of engagement.
 
+### Height Distribution
+
+![image](./image/Height_dist.png)
+
+The histogram below displays the distribution of height values in the dataset. Two distinct groups are visible:
+
+1. **Group 1 (left side)**: Most of the heights fall within a range between approximately **50–100 units**.
+2. **Group 2 (right side)**: A smaller group has height values around **500 units**, creating a significant outlier.
+
+This suggests an issue with the data, possibly caused by incorrect formatting or unit discrepancies. For example, the "500" values might indicate erroneous data entries that need cleaning for accurate analysis.
+
 
 ## Results
 -- Key findings or outcomes of the analysis.
