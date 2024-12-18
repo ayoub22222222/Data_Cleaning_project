@@ -125,10 +125,47 @@ This dataset, sourced from Kaggle via the Kaggle API, contains detailed informat
 
 
 ## executive summary
-**overview of finding**: adter cleaning and formating our data
-we came to the stage whene we need to preform some exploratory data analysis
-to have a deep insight about our data and also its will help us to make a better decision
-1- step by step aproch
+**overview of finding**: After cleaning and formatting the data, we reached the stage where we can perform exploratory data analysis (EDA). EDA allows us to gain deeper insights into the dataset, uncover patterns, and identify relationships between variables. This process is crucial for understanding the data better and making informed decisions.
+
+![image](../image/db_describe.png)
+![image](../image/db_describe2.png)
+
+### **Summary of Key Findings**
+
+#### **General Player Information**
+- **Age**: The average player age is approximately 25 years, with a range spanning from **16 to 53 years**.
+- **Height and Weight**:
+   - Height shows significant variation, with an **average height of 175.18 cm**.
+   - The average weight is **165.39 kg**, with a standard deviation of 15.59 kg.
+
+#### **Player Ratings**
+- **Overall Rating (OVA)**: The mean player rating is **65.7**, with a maximum of **93**.
+- **Potential (POT)**: Players have an average potential rating of **71.1**, indicating opportunities for growth.
+- **Growth**: On average, players have a **growth score of 5.4**, showing the potential improvement from their current level.
+
+#### **Monetary and Contract Information**
+- **Market Value**: 
+   - The average player market value is approximately **2.2 million Euros**, with notable variation (standard deviation: 5.09M).
+   - Minimum value is **0**, while the maximum reaches **105.5 million Euros**.
+- **Wage**: Weekly wages vary greatly, with an average wage of **131,795 Euros** and a maximum of **950,000 Euros**.
+
+#### **Skill and Performance Metrics**
+- **Attacking**: 
+   - Average score is **248.93**, with a maximum of **437**.
+- **PAC (Pace)**: The average pace is **67.45**, with a maximum of **96**.
+- **SHO (Shooting)**: Shooting scores average **53.45**, with a high of **93**.
+- **PAS (Passing)**: The mean passing score is **57.68**, with a maximum of **93**.
+- **DRI (Dribbling)**: Dribbling averages **62.87**, highlighting strong ball control skills.
+- **DEF (Defending)**: Defending skills show a mean of **49.86**, with a standard deviation of **16.44**.
+- **PHY (Physical)**: Players have an average physicality score of **64.37**.
+
+#### **Goalkeeping and Total Stats**
+- **GK Reflexes**: Goalkeepers exhibit an average reflex score of **16.5**, with a maximum of **90**.
+- **Total Stats**: Summing all skill-related attributes, players have an average total score of **1595.29**, with a wide range from **747 to 2316**.
+
+#### **Engagement Metrics**
+- **Hits**: Players' popularity varies significantly, with an average of **15.54 hits** and a maximum of **984 hits**, suggesting diverse levels of engagement.
+
 
 ## Results
 -- Key findings or outcomes of the analysis.
