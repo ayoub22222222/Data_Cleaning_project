@@ -179,11 +179,11 @@ This suggests an issue with the data, possibly caused by incorrect formatting or
 
 ![image](./image/filtred_height.png)
 
-The updated height distribution graph shows a more realistic spread of player heights after removing the outliers (values around 500). The data now follows a concentrated pattern within a smaller range, likely between 50 and 100 units, depending on the dataset's scale.
+The updated height distribution graph shows a more realistic spread of player heights after removing the outliers `(values around 500)`. The data now follows a concentrated pattern within a smaller range, likely between 50 and 100 units, depending on the dataset's scale.
 
-Peak Frequency: Most players' heights are concentrated within a narrow range, with the majority of values clustered towards the lower end of the scale.
-Normal Distribution: The histogram now suggests a more uniform and logical distribution without extreme values disrupting the visualization.
-Insights: Removing the outliers allows for clearer analysis of the actual player heights and reveals the underlying trends in the dataset.
+- **Peak Frequency**: Most players' heights are concentrated within a narrow range, with the majority of values clustered towards the lower end of the scale.
+- **Normal Distribution**: The histogram now suggests a more uniform and logical distribution without extreme values disrupting the visualization.
+- **Insights**: Removing the outliers allows for clearer analysis of the actual player heights and reveals the underlying trends in the dataset.
 
 ## Results
 -- Key findings or outcomes of the analysis.
