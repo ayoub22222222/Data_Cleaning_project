@@ -4,7 +4,7 @@ this project is focuses on cleaning and analyzing the relationships between phys
 Weight, Strenght, and Stamina. the goal is uncover petterns and insights that could inform training decisions in sport performance
 
 # Datasets
-this dataset was collected from kaggle using kaggle api and contains 79 columns that provide insights into players performance.
+This dataset, sourced from Kaggle via the Kaggle API, contains detailed information about football players, with 79 columns that offer insights into various aspects of their performance, attributes, and characteristics. The dataset includes player demographics (e.g., age, height, weight), overall and potential ratings, attacking, defending, and skill attributes, as well as monetary values like market value and wages. These features make the dataset suitable for player analysis, performance evaluation, and sports analytics. It is ideal for tasks such as exploratory data analysis (EDA), predictive modeling, and decision-making in football management.
 
 # Player Attributes Description
 
@@ -124,12 +124,10 @@ this dataset was collected from kaggle using kaggle api and contains 79 columns 
 | Hits       | Represents player popularity or the number of times the player’s profile has been viewed. |
 
 
-## Tool and technologies
-- language
-- libraries
-- tools
-- Envirment
-## Methodology
+## executive summary
+**overview of finding**: adter cleaning and formating our data
+we came to the stage whene we need to preform some exploratory data analysis
+to have a deep insight about our data and also its will help us to make a better decision
 1- step by step aproch
 
 ## Results
