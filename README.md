@@ -232,19 +232,23 @@ The heatmap visualizes the correlation matrix between the variables "Height," "W
 
 ![image](./image/attack_multivaraite.png)
 
-The heatmap visualizes the correlation matrix between the variables "Height," "Weight," "Strength," and "Stamina." Here are some key observations:
+The heatmap visualizes the correlation matrix between the variables "Finishing," "Crossing," and "Dribbling." Here are some key observations:
 
 ### 1. Strong Positive Correlation:
-- **Weight and Strength:** There's a strong positive correlation (0.61) between Weight and Strength. This indicates that players with higher weight tend to have greater strength.
+- **Finishing and Crossing:** There's a strong positive correlation (0.67) between Finishing and Crossing. This indicates that players with good finishing skills also tend to have good crossing abilities.
+- **Finishing and Dribbling:** A strong positive correlation (0.83) exists between Finishing and Dribbling, suggesting that players who are skilled at finishing are also likely to be good at dribbling.
+- **Crossing and Dribbling:** A strong positive correlation (0.86) exists between Crossing and Dribbling, suggesting that players with good crossing abilities are also likely to be good at dribbling.
 
-### 2. Moderate Positive Correlation:
-- **Height and Weight:** A moderate positive correlation (0.15) exists between Height and Weight, suggesting that taller players tend to be heavier.
-- **Strength and Stamina:** A moderate positive correlation (0.28) exists between Strength and Stamina, indicating that players with greater strength tend to have higher stamina.
+### Overall, the heatmap reveals that:
+- Finishing, Crossing, and Dribbling are strongly correlated. This suggests that players who excel in one of these skills are likely to be proficient in the others as well.
 
-### 3. Weak or No Correlation:
-- **Height and Strength:** The correlation between Height and Strength is weak (0.08), implying a limited relationship between the two.
-- **Height and Stamina:** There is a weak positive correlation (0.13) between Height and Stamina.
-- **Weight and Stamina:** A weak negative correlation (-0.22) is observed between Weight and Stamina, suggesting that higher weight might be slightly associated with lower stamina.
+### Further Insights and Next Steps:
+- **Purpose:** The purpose of this analysis could be to understand the relationships between attacking skills in players.
+- **Insights:** This analysis can be used to identify potential player profiles. For example, players with high finishing, crossing, and dribbling skills might be considered as attacking threats who can score goals, create scoring opportunities for teammates, and take on defenders.
+- **Next Steps:** The analysis can be extended to include other relevant variables such as passing, heading, and speed to gain a more comprehensive understanding of attacking player profiles.
+
+### In summary, the heatmap shows a strong positive correlation between finishing, crossing, and dribbling skills in players, suggesting that these skills often go hand-in-hand.
+
 
 ### Overall, the heatmap reveals that:
 - Weight and Strength are strongly linked.
