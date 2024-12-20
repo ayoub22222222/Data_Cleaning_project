@@ -194,9 +194,15 @@ The histogram illustrates the age distribution of professional football players.
 
 ## PAC Distribution of Football Players
 
-![image](./image/pca_dist.png)
+![image](./image/pac_dist.png)
 
 The histogram represents the PAC (Pace) distribution among football players. The data shows that most players have a pace rating between **60 and 80**, with a peak around **70**, indicating an average speed for the majority. Players with exceptionally low (below 50) or high (above 90) pace ratings are rare, suggesting that extreme pace ratings are less common in professional football.
+
+## SHO Distribution of Football Players
+
+![image](./image/sho_dist.png)
+
+The histogram showcases the SHO (Shooting) distribution among football players. The data indicates that most players have a shooting rating between **50 and 70**, with the highest frequency around **60**, suggesting an average shooting ability for the majority. Players with exceptional shooting ratings (above 80) or very low ratings (below 30) are relatively uncommon, reflecting a concentration of average shooting skills in professional football.
 
 
 ## Results
