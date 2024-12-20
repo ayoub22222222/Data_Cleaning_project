@@ -206,7 +206,7 @@ The histogram showcases the SHO (Shooting) distribution among football players. 
 
 ## Age vs POT of Football Players
 
-![image](./image/Age_vs_pot.png)
+![image](./image/age_vs_pot.png)
 
 This visualization aims to analyze the relationship between Age and POT (Potential). It reveals a positive correlation between age and potential, indicating that as age increases, POT tends to increase as well. However, this increase is not very strong.
 
