@@ -247,8 +247,6 @@ The heatmap visualizes the correlation matrix between the variables "Finishing,"
 - **Insights:** This analysis can be used to identify potential player profiles. For example, players with high finishing, crossing, and dribbling skills might be considered as attacking threats who can score goals, create scoring opportunities for teammates, and take on defenders.
 - **Next Steps:** The analysis can be extended to include other relevant variables such as passing, heading, and speed to gain a more comprehensive understanding of attacking player profiles.
 
-# FIFA 21 Data Analysis - Exploratory Data Analysis (EDA)
-
 ## Results
 
 After cleaning and preparing the dataset, the exploratory data analysis (EDA) yielded several key insights and visual patterns:
