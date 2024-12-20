@@ -247,40 +247,59 @@ The heatmap visualizes the correlation matrix between the variables "Finishing,"
 - **Insights:** This analysis can be used to identify potential player profiles. For example, players with high finishing, crossing, and dribbling skills might be considered as attacking threats who can score goals, create scoring opportunities for teammates, and take on defenders.
 - **Next Steps:** The analysis can be extended to include other relevant variables such as passing, heading, and speed to gain a more comprehensive understanding of attacking player profiles.
 
-### In summary, the heatmap shows a strong positive correlation between finishing, crossing, and dribbling skills in players, suggesting that these skills often go hand-in-hand.
-
-
-### Overall, the heatmap reveals that:
-- Weight and Strength are strongly linked.
-- Height has a moderate positive correlation with Weight.
-- Strength and Stamina have a moderate positive correlation.
-- Other correlations are weak or negligible.
-
-### Further Insights and Next Steps:
-- **Purpose:** The purpose of this analysis could be to understand the relationships between physical attributes in players.
-- **Insights:** This analysis can be used to identify potential player profiles. For example, players with high weight and strength might be suitable for certain positions that require power, while players with high stamina and strength might be suited for positions that require endurance.
-- **Next Steps:** The analysis can be extended to include other relevant variables such as age, speed, agility, and attacking/defensive stats to gain a more comprehensive understanding of player profiles.
-
-
-### Overall, the heatmap reveals that:
-- Weight and Strength are strongly linked.
-- Height has a moderate positive correlation with Weight.
-- Strength and Stamina have a moderate positive correlation.
-- Other correlations are weak or negligible.
-
-### Further Insights and Next Steps:
-- **Purpose:** The purpose of this analysis could be to understand the relationships between physical attributes in players.
-- **Insights:** This analysis can be used to identify potential player profiles. For example, players with high weight and strength might be suitable for certain positions that require power, while players with high stamina and strength might be suited for positions that require endurance.
-- **Next Steps:** The analysis can be extended to include other relevant variables such as age, speed, agility, and attacking/defensive stats to gain a more comprehensive understanding of player profiles.
+# FIFA 21 Data Analysis - Exploratory Data Analysis (EDA)
 
 ## Results
--- Key findings or outcomes of the analysis.
-Include visualizations, charts, or summaries (if applicable)
 
-##  How to Use This Repository
-...
+After cleaning and preparing the dataset, the exploratory data analysis (EDA) yielded several key insights and visual patterns:
 
-## Folder Structure
+### 1. **General Player Information**
+   - **Average Player Age**: 25 years
+   - **Average Height**: 175.18 cm
+   - **Average Weight**: 165.39 kg
+   - These values are representative of professional football players, showing reasonable consistency across different teams and leagues.
 
-## Contact Information
+### 2. **Player Ratings**
+   - **Overall Rating (OVA)**: 65.7 (mean)
+   - **Potential Rating (POT)**: 71.1 (mean)
+   - **Growth Score (POT - OVA)**: 5.4 (average)
+   - This suggests a significant potential for improvement in many players.
+
+### 3. **Monetary and Contract Information**
+   - **Average Market Value**: 2.2 million Euros
+   - **Highest Market Value**: 105.5 million Euros
+   - **Weekly Wages**: Vary significantly, from a few thousand to nearly a million Euros.
+
+### 4. **Physical and Skill Attributes**
+   - **Attacking Skill (ATT)**: 248.93 (average)
+   - **Pace (PAC)**: 67.45 (average)
+   - **Defending Skills (DEF)**: Moderate average scores
+   - **Physical Attributes (PHY)**: Includes strength and stamina, showing a mix of strong and weaker performers.
+
+### 5. **Goalkeeping and Total Stats**
+   - **Goalkeeping Reflexes**: Goalkeepers have lower reflex scores compared to field players.
+   - **Total Stats (sum of key attributes)**: Reflects the overall ability of players, with a broad range.
+
+### 6. **Engagement Metrics**
+   - **Hits (Profile Views)**: Ranges from very few to up to 984, indicating varying levels of public interest in different players.
+
+## How to Use This Repository
+
+To use this repository for analysis:
+
+1. **Clone the repository**: 
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
+
+## project structure 
+
+/project-directory
+├── /data                # Contains raw and cleaned datasets
+├── /images              # Stores visualizations used in the analysis
+├── /notebooks           # Includes Jupyter notebooks for EDA and analysis
+│   ├── eda.ipynb        # Main notebook for exploratory data analysis
+├── /scripts             # Stores Python scripts for data cleaning and auxiliary tasks
+├── requirements.txt     # Lists all the dependencies needed to run the project
+
 
