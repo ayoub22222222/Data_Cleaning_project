@@ -191,6 +191,14 @@ The updated height distribution graph shows a more realistic spread of player he
 
 The histogram illustrates the age distribution of professional football players. The data reveals that the majority of players fall within the **20 to 30 years** age range, with the peak concentration observed between **23 and 25 years**, highlighting the prime athletic years in professional football. Beyond the age of **30**, the frequency declines significantly, and players above **35 years** are notably rare. This distribution underscores the emphasis on youth and peak physical performance in professional football.
 
+
+## PAC Distribution of Football Players
+
+![image](./image/pca_dist.png)
+
+The histogram represents the PAC (Pace) distribution among football players. The data shows that most players have a pace rating between **60 and 80**, with a peak around **70**, indicating an average speed for the majority. Players with exceptionally low (below 50) or high (above 90) pace ratings are rare, suggesting that extreme pace ratings are less common in professional football.
+
+
 ## Results
 -- Key findings or outcomes of the analysis.
 Include visualizations, charts, or summaries (if applicable)
