@@ -292,12 +292,12 @@ To use this repository for analysis:
 
 ## project structure 
 
-/project-directory
+```/project-directory
 ├── /data                # Contains raw and cleaned datasets
 ├── /images              # Stores visualizations used in the analysis
 ├── /notebooks           # Includes Jupyter notebooks for EDA and analysis
 │   ├── eda.ipynb        # Main notebook for exploratory data analysis
 ├── /scripts             # Stores Python scripts for data cleaning and auxiliary tasks
 ├── requirements.txt     # Lists all the dependencies needed to run the project
-
+```
 
