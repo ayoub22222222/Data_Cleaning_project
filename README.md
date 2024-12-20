@@ -185,6 +185,12 @@ The updated height distribution graph shows a more realistic spread of player he
 - **Normal Distribution**: The histogram now suggests a more uniform and logical distribution without extreme values disrupting the visualization.
 - **Insights**: Removing the outliers allows for clearer analysis of the actual player heights and reveals the underlying trends in the dataset.
 
+## Age Distribution of Football Players
+
+![image](./image/Age_dist.png)
+
+The histogram illustrates the age distribution of professional football players. The data reveals that the majority of players fall within the **20 to 30 years** age range, with the peak concentration observed between **23 and 25 years**, highlighting the prime athletic years in professional football. Beyond the age of **30**, the frequency declines significantly, and players above **35 years** are notably rare. This distribution underscores the emphasis on youth and peak physical performance in professional football.
+
 ## Results
 -- Key findings or outcomes of the analysis.
 Include visualizations, charts, or summaries (if applicable)
