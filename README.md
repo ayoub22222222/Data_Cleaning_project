@@ -204,6 +204,12 @@ The histogram represents the PAC (Pace) distribution among football players. The
 
 The histogram showcases the SHO (Shooting) distribution among football players. The data indicates that most players have a shooting rating between **50 and 70**, with the highest frequency around **60**, suggesting an average shooting ability for the majority. Players with exceptional shooting ratings (above 80) or very low ratings (below 30) are relatively uncommon, reflecting a concentration of average shooting skills in professional football.
 
+## Age vs POT of Football Players
+
+![image](./image/Age_vs_pot.png)
+
+This visualization aims to analyze the relationship between Age and POT (Potential). It reveals a positive correlation between age and potential, indicating that as age increases, POT tends to increase as well. However, this increase is not very strong.
+
 
 ## Results
 -- Key findings or outcomes of the analysis.
