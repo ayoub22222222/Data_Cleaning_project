@@ -228,6 +228,36 @@ The heatmap visualizes the correlation matrix between the variables "Height," "W
    - **Height and Stamina:** There is a weak positive correlation (0.13) between Height and Stamina.
    - **Weight and Stamina:** A weak negative correlation (-0.22) is observed between Weight and Stamina, suggesting that higher weight might be slightly associated with lower stamina.
 
+## Interpretation of the Heatmap
+
+![image](./image/attack_multivaraite.png)
+
+The heatmap visualizes the correlation matrix between the variables "Height," "Weight," "Strength," and "Stamina." Here are some key observations:
+
+### 1. Strong Positive Correlation:
+- **Weight and Strength:** There's a strong positive correlation (0.61) between Weight and Strength. This indicates that players with higher weight tend to have greater strength.
+
+### 2. Moderate Positive Correlation:
+- **Height and Weight:** A moderate positive correlation (0.15) exists between Height and Weight, suggesting that taller players tend to be heavier.
+- **Strength and Stamina:** A moderate positive correlation (0.28) exists between Strength and Stamina, indicating that players with greater strength tend to have higher stamina.
+
+### 3. Weak or No Correlation:
+- **Height and Strength:** The correlation between Height and Strength is weak (0.08), implying a limited relationship between the two.
+- **Height and Stamina:** There is a weak positive correlation (0.13) between Height and Stamina.
+- **Weight and Stamina:** A weak negative correlation (-0.22) is observed between Weight and Stamina, suggesting that higher weight might be slightly associated with lower stamina.
+
+### Overall, the heatmap reveals that:
+- Weight and Strength are strongly linked.
+- Height has a moderate positive correlation with Weight.
+- Strength and Stamina have a moderate positive correlation.
+- Other correlations are weak or negligible.
+
+### Further Insights and Next Steps:
+- **Purpose:** The purpose of this analysis could be to understand the relationships between physical attributes in players.
+- **Insights:** This analysis can be used to identify potential player profiles. For example, players with high weight and strength might be suitable for certain positions that require power, while players with high stamina and strength might be suited for positions that require endurance.
+- **Next Steps:** The analysis can be extended to include other relevant variables such as age, speed, agility, and attacking/defensive stats to gain a more comprehensive understanding of player profiles.
+
+
 ### Overall, the heatmap reveals that:
 - Weight and Strength are strongly linked.
 - Height has a moderate positive correlation with Weight.
