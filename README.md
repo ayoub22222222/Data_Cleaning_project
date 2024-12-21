@@ -281,6 +281,10 @@ After cleaning and preparing the dataset, the exploratory data analysis (EDA) yi
 ### 6. **Engagement Metrics**
    - **Hits (Profile Views)**: Ranges from very few to up to 984, indicating varying levels of public interest in different players.
 
+### Recommendation
+
+For the recommendation section, I left it empty as the purpose of this project is to demonstrate my ability to conduct a basic data analysis project, including tasks such as data cleaning, performing descriptive statistics, and visualizing the findings.
+
 ## How to Use This Repository
 
 To use this repository for analysis:
