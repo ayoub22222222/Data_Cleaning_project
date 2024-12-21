@@ -292,7 +292,8 @@ To use this repository for analysis:
 
 ## project structure 
 
-```/project-directory
+```
+/project-directory
 ├── /data                # Contains raw and cleaned datasets
 ├── /images              # Stores visualizations used in the analysis
 ├── /notebooks           # Includes Jupyter notebooks for EDA and analysis
